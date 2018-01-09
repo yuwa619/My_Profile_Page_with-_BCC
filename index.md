@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Martins's BCC page
 
 You can use the [editor on GitHub](https://github.com/yuwa619/My_Profile_Page_with-_BCC/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
